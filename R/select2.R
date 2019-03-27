@@ -16,8 +16,10 @@
 #' 
 #' select2(cars, 1:2)
 select2 <- function(df, ind){
-  stopifnot(is.character(ind) | is.integer(ind) | is.logical(ind))
+  #stopifnot(is.character(ind) | is.integer(ind) | is.logical(ind))
 
   df[ind]
 }
 
+# usethis::use_package("dplyr", type = "Suggests")
+# Pour les test unitaire usethis::use_test()
