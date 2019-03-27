@@ -4,12 +4,12 @@
 \name{minidlyr-package}
 \alias{minidlyr}
 \alias{minidlyr-package}
-\title{minidlyr: What the Package Does (One Line, Title Case)}
+\title{minidlyr: Reimplementing Dplyr (or not)}
 \description{
-What the package does (one paragraph).
+Useless thing.
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com}
+\strong{Maintainer}: Me Me \email{me.me@example.com}
 
 }
 \keyword{internal}
